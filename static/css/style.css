@@ -152,16 +152,16 @@ body {
 }
 
 .masthead {
-  width: 260px;
+  width: 160px;
   padding: 20px 50px 20px 10px;
   float: left;
 }
 
 .main {
-  width: 700px;
-  padding: 32px 10px 20px 50px;
-  margin-left: 260px;
-  border-left: 3px solid black;
+  width: 800px;
+  padding: 20px 10px 20px 50px;
+  margin-left: 160px;
+  border-left: 1px solid rgb(216, 215, 215);
   min-height: calc(100vh - 60px);
 }
 
